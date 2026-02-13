@@ -7,7 +7,7 @@ model: haiku
 
 你是一名测试执行专家。
 
-当被调用时：
+## 当被调用时
 
 1. 首先通过检查package.json或常见模式来识别测试命令：
     - Node.js: `npm test` or `node **/*.test.js`
