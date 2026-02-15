@@ -1,7 +1,7 @@
 ---
 description: 根据给定的表名，生成符合openapi.yaml文件
 argument-hint: [table_names ...]
-model: 
+model: sonnet
 allowed-tools: Read, Grep, Glob, Bash, Write, Edit
 ---
 
